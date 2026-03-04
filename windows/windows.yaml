@@ -6,7 +6,7 @@ services:
       VERSION: "11"
       RAM_SIZE: "12G"
       CPU_CORES: "4"
-      DISK_SIZE: "128G"
+      DISK_SIZE: "513G"
       USERNAME: "sherow"
       PASSWORD: "*Sherow@1982#"
     devices:
